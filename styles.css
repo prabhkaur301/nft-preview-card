@@ -130,9 +130,15 @@ margin: 2.5rem 0;
     background-position: center center;
     opacity: 0;
     
+    translate: 1s all ease-in-out;
+    
+}
+a{
+    text-decoration: none;
 }
 .overlay:hover{
     opacity: 1;
+   
 }
 
 
